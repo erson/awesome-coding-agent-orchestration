@@ -69,6 +69,7 @@ As coding moves from one assistant to many parallel agents working across git wo
 | --- | --- | --- | --- | --- |
 | **[agent-kanban](https://github.com/saltbo/agent-kanban)** | ![Stars](https://img.shields.io/github/stars/saltbo/agent-kanban?style=flat-square&logo=github&label=&color=2b3137) | ![Contributors](https://img.shields.io/github/contributors/saltbo/agent-kanban?style=flat-square&label=&color=555) | ![Updated](https://img.shields.io/github/last-commit/saltbo/agent-kanban?style=flat-square&label=&color=informational) | Agent-first task board / mission control |
 | **[kandev](https://github.com/kdlbs/kandev)** | ![Stars](https://img.shields.io/github/stars/kdlbs/kandev?style=flat-square&logo=github&label=&color=2b3137) | ![Contributors](https://img.shields.io/github/contributors/kdlbs/kandev?style=flat-square&label=&color=555) | ![Updated](https://img.shields.io/github/last-commit/kdlbs/kandev?style=flat-square&label=&color=informational) | AI Kanban and development environment |
+| **[Tale](https://github.com/tale-project/tale)** | ![Stars](https://img.shields.io/github/stars/tale-project/tale?style=flat-square&logo=github&label=&color=2b3137) | ![Contributors](https://img.shields.io/github/contributors/tale-project/tale?style=flat-square&label=&color=555) | ![Updated](https://img.shields.io/github/last-commit/tale-project/tale?style=flat-square&label=&color=informational) | Shared task board with sandboxed agents and deliverable review |
 
 ## Cost & observability
 
