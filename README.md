@@ -35,6 +35,7 @@ As coding moves from one assistant to many parallel agents working across git wo
 
 | Tool | Stars | Contributors | Updated | What |
 | --- | --- | --- | --- | --- |
+| **[Althar](https://github.com/AltharIDE/althar)** | ![Stars](https://img.shields.io/github/stars/AltharIDE/althar?style=flat-square&logo=github&label=&color=2b3137) | ![Contributors](https://img.shields.io/github/contributors/AltharIDE/althar?style=flat-square&label=&color=555) | ![Updated](https://img.shields.io/github/last-commit/AltharIDE/althar?style=flat-square&label=&color=informational) | Coordinates coding agents through task planning, implementation, and independent model review |
 | **[jat](https://github.com/joewinke/jat)** | ![Stars](https://img.shields.io/github/stars/joewinke/jat?style=flat-square&logo=github&label=&color=2b3137) | ![Contributors](https://img.shields.io/github/contributors/joewinke/jat?style=flat-square&label=&color=555) | ![Updated](https://img.shields.io/github/last-commit/joewinke/jat?style=flat-square&label=&color=informational) | Agentic IDE to supervise 20+ parallel agents |
 | **[stagewise](https://github.com/stagewise-io/stagewise)** | ![Stars](https://img.shields.io/github/stars/stagewise-io/stagewise?style=flat-square&logo=github&label=&color=2b3137) | ![Contributors](https://img.shields.io/github/contributors/stagewise-io/stagewise?style=flat-square&label=&color=555) | ![Updated](https://img.shields.io/github/last-commit/stagewise-io/stagewise?style=flat-square&label=&color=informational) | Agentic IDE with app previews and git workflows |
 
